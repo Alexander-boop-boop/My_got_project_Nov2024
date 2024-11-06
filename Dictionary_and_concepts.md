@@ -10,5 +10,17 @@
 2. Local Repository: the timeline
 
 3. Staging Area: A space to prepare for a snapshot that will go in my timeline
+   
+   
+
+# Why use the staging area
+
+It gives a space to organize your changes in time. Because of this you can think logically before making a comit. 
+
+
+
+
+
+
 
 
