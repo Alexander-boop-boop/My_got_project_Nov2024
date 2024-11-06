@@ -20,3 +20,17 @@ It gives a space to organize your changes in time. Because of this you can think
 # What if you forget -m in git commit?
 
 it opens a text editor and makes you create a message! too important to escape!
+
+# Complex problem 1: bad commit
+
+-> git log -> search the commit where it went wrong, get the number for this one
+
+-> git revert 1277cfccdf69e8
+
+you can also revert the revert
+
+# Differences git clone and git pull
+
+Clone downloads everything when you have nothing
+
+git pull looks at what changes are made in your online directory but not locally, and updates your local repository

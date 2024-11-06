@@ -77,4 +77,20 @@ is for making a space to organise things in time before making a commit
 
 * git push 
 
-...
+# Problem solving commands
+
+* git revert 
+  
+  * If you gave a bad commit, which you dont want
+  
+  * git log --> search number of commit you want to reverse --> put this number in git revert 
+
+* git clone
+  
+  * When you removed your local repository
+  
+  * go to github and get the ssh you need
+  
+  * then put git clone ssh
+  
+  * gitignore wont be there, it was ignored. git remote is already done. When you did everything 
