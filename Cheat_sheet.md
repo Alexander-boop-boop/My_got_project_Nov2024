@@ -94,3 +94,9 @@ is for making a space to organise things in time before making a commit
   * then put git clone ssh
   
   * gitignore wont be there, it was ignored. git remote is already done. When you did everything 
+
+# Collaboration on Github
+
+
+
+Conflict incoming
