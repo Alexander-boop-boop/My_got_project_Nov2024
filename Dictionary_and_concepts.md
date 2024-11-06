@@ -20,3 +20,5 @@ It gives a space to organize your changes in time. Because of this you can think
 # What if you forget -m in git commit?
 
 it opens a text editor and makes you create a message! too important to escape!
+
+From Leander: I like this dictionary!
