@@ -11,3 +11,7 @@
 - git config --global user.name "My name": To have your name in the config
 
 - git config --global user.email "my_email@vib.be": to have my email in the config
+
+- git mv old.file.text new.file.txt: when changing a name so git knows it is the same file
+
+- git status: checks which files are in developing or staging area, or are untracked
