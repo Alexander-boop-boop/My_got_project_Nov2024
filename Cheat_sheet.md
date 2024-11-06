@@ -17,3 +17,9 @@
 - git status: checks which files are in developing or staging area, or are untracked
 
 - What happens if i gorget the -m in the commit
+
+
+
+# The staging area
+
+is for making a space to organise things in time before making a commit
