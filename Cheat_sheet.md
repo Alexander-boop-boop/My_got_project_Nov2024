@@ -15,3 +15,5 @@
 - git mv old.file.text new.file.txt: when changing a name so git knows it is the same file
 
 - git status: checks which files are in developing or staging area, or are untracked
+
+- What happens if i gorget the -m in the commit
