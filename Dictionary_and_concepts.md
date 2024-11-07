@@ -52,3 +52,6 @@ Git checkout command makes you travel between branches. Do not mess up the path.
 
 
 Git checkout: switch branches, git show displays info about git object 
+
+# 'The mirror effect'
+The mirror effect means that the files in your folders reflect the current branch and commit that are active. If you switch to a different branch or commit, the files and folders will update to reflect the status of that branch and commit. The data for all other timepoints reside in the .git folder, which takes care of everything under the hood. 
