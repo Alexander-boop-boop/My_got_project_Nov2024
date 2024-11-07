@@ -88,7 +88,7 @@ is for making a space to organise things in time before making a commit
 * git clone
   
   * When you removed your local repository
-  
+
   * go to github and get the ssh you need
   
   * then put git clone ssh
@@ -99,4 +99,4 @@ is for making a space to organise things in time before making a commit
 
 
 
-Conflict incoming
+Problem solved

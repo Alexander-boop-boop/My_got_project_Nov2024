@@ -34,3 +34,9 @@ you can also revert the revert
 Clone downloads everything when you have nothing
 
 git pull looks at what changes are made in your online directory but not locally, and updates your local repository
+
+
+
+# Conflicts
+
+When you both push a change in the same document, the last one to push gets a conflict
