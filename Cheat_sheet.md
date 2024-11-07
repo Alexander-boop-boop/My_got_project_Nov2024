@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Commands list
 
 - git init: initialize a new repository. We only initialize it once. 
@@ -96,7 +111,6 @@ is for making a space to organise things in time before making a commit
   * gitignore wont be there, it was ignored. git remote is already done. When you did everything 
 
 * git rebase, also exists, but makes more drastical changes, we dont really talk about it during the course
-
 # Alternative histories
 
 - git branch <name>
@@ -111,3 +125,11 @@ is for making a space to organise things in time before making a commit
   - Before you move branches, close the files you are working in
 
 - First time you push in a different timeline: --set-upstream origin parallell_timeline
+
+ git push --set-upstream origin parallell_timeline
+
+* git branch <name>
+  
+  * git branch parallell_timeline
+
+* git checkout parallell_timeline
