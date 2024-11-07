@@ -35,8 +35,16 @@ Clone downloads everything when you have nothing
 
 git pull looks at what changes are made in your online directory but not locally, and updates your local repository
 
-
-
 # Conflicts
 
 When you both push a change in the same document, the last one to push gets a conflict
+
+# Alternative histories
+
+Branches = alternative history of commits. They have a specific descriptive name. A branch is indipendent in itself. It is connected with the main branch in one point. 
+
+You can push things at one time, without worrying the other will push before you. 
+
+The most recent commit is always named head. I
+
+Git checkout command makes you travel between branches. Do not mess up the path. 

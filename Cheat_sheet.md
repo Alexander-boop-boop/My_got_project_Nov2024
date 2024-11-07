@@ -88,15 +88,22 @@ is for making a space to organise things in time before making a commit
 * git clone
   
   * When you removed your local repository
-
+  
   * go to github and get the ssh you need
   
   * then put git clone ssh
   
   * gitignore wont be there, it was ignored. git remote is already done. When you did everything 
 
-# Collaboration on Github
+* git rebase, also exists, but makes more drastical changes, we dont really talk about it during the course
 
+# ALternative histories
 
+- git branch <name>
+  
+  - git branch parallell_timeline
 
-Problem solved
+- git checkout <branch_name>
+  
+  - Do not mess with the past
+  - git checkout parallell timeline --> switches to here
