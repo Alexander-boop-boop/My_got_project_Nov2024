@@ -102,6 +102,7 @@ is for making a space to organise things in time before making a commit
 - git branch <name>
   
   - git branch parallell_timeline
+  - git branch -a --> gives overview of timelines
 
 - git checkout <branch_name>
   
@@ -110,5 +111,3 @@ is for making a space to organise things in time before making a commit
   - Before you move branches, close the files you are working in
 
 - First time you push in a different timeline: --set-upstream origin parallell_timeline
-  
-  
