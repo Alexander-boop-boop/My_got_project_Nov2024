@@ -97,7 +97,7 @@ is for making a space to organise things in time before making a commit
 
 * git rebase, also exists, but makes more drastical changes, we dont really talk about it during the course
 
-# ALternative histories
+# Alternative histories
 
 - git branch <name>
   
@@ -107,3 +107,8 @@ is for making a space to organise things in time before making a commit
   
   - Do not mess with the past
   - git checkout parallell timeline --> switches to here
+  - Before you move branches, close the files you are working in
+
+- First time you push in a different timeline: --set-upstream origin parallell_timeline
+  
+  
