@@ -47,4 +47,8 @@ You can push things at one time, without worrying the other will push before you
 
 The most recent commit is always named head. I
 
-Git checkout command makes you travel between branches. Do not mess up the path. 
+Git checkout command makes you travel between branches. Do not mess up the path.
+
+
+
+Git checkout: switch branches, git show displays info about git object 
