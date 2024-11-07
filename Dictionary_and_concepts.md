@@ -51,6 +51,12 @@ Git checkout command makes you travel between branches. Do not mess up the path.
 
 Git checkout: switch branches, git show displays info about git object 
 
+# Travveling in the timeline (be careful)
 
+Creating a detached head
 
-# its Thursday 7 Nov 11:12 and i am working in my main branch
+- go back to the past of a branch, checkout to an old commit
+
+- start editing from here
+
+- if you dont pay attention y
