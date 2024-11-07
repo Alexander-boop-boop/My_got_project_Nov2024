@@ -99,6 +99,10 @@ is for making a space to organise things in time before making a commit
 
 Problem solved
 
-
-
  git push --set-upstream origin parallell_timeline
+
+* git branch <name>
+  
+  * git branch parallell_timeline
+
+* git checkout parallell_timeline
