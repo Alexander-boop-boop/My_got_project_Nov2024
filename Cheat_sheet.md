@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Commands list
 
 - git init: initialize a new repository. We only initialize it once. 
@@ -111,8 +96,8 @@ is for making a space to organise things in time before making a commit
   * gitignore wont be there, it was ignored. git remote is already done. When you did everything 
 
 * git rebase, also exists, but makes more drastical changes, we dont really talk about it during the course
-# Alternative histories
-
+  
+  # Alternative histories
 - git branch <name>
   
   - git branch parallell_timeline
@@ -133,3 +118,31 @@ is for making a space to organise things in time before making a commit
   * git branch parallell_timeline
 
 * git checkout parallell_timeline
+
+* git log --oneline --decorate --graph -a --> get a graphic overview 
+
+
+
+# Tagging: naming a commit
+
+* git tag -> gives all names you have
+
+* git tag <name>
+  
+  * tags the head; the last commit
+
+* git tag <name> <commitID> 
+
+* git tag cb0a38 ( komt van git log) c war_zone
+
+* git push --tags 
+  
+  * Pushes specifically the tags. Normal git push might not work
+
+* git tag -d 
+  
+  * Deleting a tag
+    
+    git tag -d war_zone
+    
+    

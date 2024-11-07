@@ -57,8 +57,8 @@ Git checkout: switch branches, git show displays info about git object
 Creating a detached head
 
 - go back to the past of a branch, checkout to an old commit
-
- detached
+  
+  detached
 
 - start editing from here
 
@@ -67,7 +67,9 @@ Creating a detached head
 Git checkout: switch branches, git show displays info about git object 
 
 # 'The mirror effect'
+
 The mirror effect means that the files in your folders reflect the current branch and commit that are active. If you switch to a different branch or commit, the files and folders will update to reflect the status of that branch and commit. The data for all other timepoints reside in the .git folder, which takes care of everything under the hood. 
 
+# Tagging
 
-# I am in the past hehe
+Giving commits a name. 
