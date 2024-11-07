@@ -49,6 +49,8 @@ The most recent commit is always named head. I
 
 Git checkout command makes you travel between branches. Do not mess up the path.
 
-
-
 Git checkout: switch branches, git show displays info about git object 
+
+
+
+# its Thursday 7 Nov 11:12 and i am working in my main branch
